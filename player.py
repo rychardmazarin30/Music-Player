@@ -5,7 +5,7 @@ import pygame
 from pygame import mixer
 import os
 
-# As imagens que utilizei foi pra ilustrar os botões, você pode personalizar seu reprodutor do jeito que quiser.
+# As imagens que utilizei foram para ilustrar os botões, você pode personalizar seu reprodutor do jeito que quiser.
 
 # Colors
 cinza = "#f0f3f5"
