@@ -11,8 +11,7 @@
 <p> - os </p>
 
 <h2> Funcionalidade </h2>
-<p>Com ele você pode ouvir suas músicas preferidas de uma maneira bem simples, apenas selecionando e apertando o botao de play e PRONTO! </p>
-<p> Divirta-se </p>
+<p>Com ele você pode ouvir suas músicas preferidas de uma maneira bem simples, basta dar um Play e pronto, DIVIRTA-SE! </p>
 
 <h4>Desenvolvido por Rychard Mazarin</h4>
 
