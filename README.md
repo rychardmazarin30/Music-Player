@@ -12,6 +12,9 @@
 
 <h2> Funcionalidade </h2>
 <p>Com ele você pode ouvir suas músicas preferidas de uma maneira bem simples, apenas selecionando e apertando o botao de play e PRONTO! </p>
+<p> Divirta-se </p>
+
+<h4>Desenvolvido por Rychard Mazarin</h4>
 
 
 
