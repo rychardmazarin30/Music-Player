@@ -50,7 +50,7 @@ label_logo  = Label(
     fg = vermelho)
 label_logo.place(x = 20, y = 20)
 
-# Function para reproduzir música
+# Function para Reproduzir Música
 def  play_musica():
     rodando = listbox.get(ACTIVE)
     label_rodando['text'] = rodando
